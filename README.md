@@ -78,7 +78,3 @@ Comtact Number: +91-120-4399820
 * 
 -->
 </details>
-
-
-<!-- - Use this html element to create a back to top button. -->
-<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
