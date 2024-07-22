@@ -34,20 +34,13 @@
 * 
 * Insert your github profile URL in the <a> "href" attribute bellow (line )
 -->
-<div align="center">
-    <a href="https://dreamstel.com" target="_blank">
-        <img src="https://www.dreamstel.com/blog/img/logo.png" 
-        alt="Logo" width="25%" height="100">
-    </a>
-</div>
-
 <!-- Project title 
 * use a dynamic typing-SvG here https://readme-typing-svg.demolab.com/demo/
 *
 *  Instead you can type your project name after a # header
 -->
 
-<div align="center"><h3>EXPERTISE IN</h3>
+<div align="center"><h2>EXPERTISE IN</h2>
 <a href="https://dreamstel.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Web+application+solutions;Ecommerce+Solutions;Mobile+app+development;UI+%26+UX+Design;IT+Consulting" alt="Typing SVG" />
 </a></div>
 
