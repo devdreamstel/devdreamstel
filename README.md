@@ -37,7 +37,7 @@
 <div align="center">
     <a href="https://dreamstel.com" target="_blank">
         <img src="https://www.dreamstel.com/blog/img/logo.png" 
-        alt="Logo" width="290" height="120">
+        alt="Logo" width="100%" height="100">
     </a>
 </div>
 
